@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+    <test name="Test">
+        <classes>
+            <class name="test.M8_UserGroupTypeService_Tests._01_GET_All_UGT"></class>
+            <class name="test.m3_membershiptype.PositiveCRUD"></class>
+            <class name="test.m5_organisationStatusService.CrudOrganisation"></class>
+            <class name="test.m9_UserServives.UserServices"></class>
+            <class name="test.M8_UserGroupTypeService_Tests._05_POST_Add_New_UGT"></class>
+        </classes>
+
+    </test>
+
+
+
+
+
+
+</suite>
