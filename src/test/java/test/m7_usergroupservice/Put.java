@@ -25,6 +25,7 @@ public class Put extends Hooks {
 
         M7_UserGroupServicesEndPoints.deleteUserGroupById(id);
 
+
         try {
 
             M7_UserGroupServicesEndPoints.getGETUserGroupById(id);
